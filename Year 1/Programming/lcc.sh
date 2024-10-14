@@ -2,7 +2,7 @@
 if [ "$1" == "-h" ];
 then
     echo "------------------------------------"
-    echo "./compile.sh [file name] [option]"
+    echo "./lcc.sh [file name] [option]"
     echo "--------+---------------------------"
     echo "   -h   |   see this message"
     echo "   -r   |   run code after compiling"
