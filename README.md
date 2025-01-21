@@ -8,3 +8,4 @@ Repo of all projects and other misc things done for the course
 
 #### Programming
 - [Lazy C Compiler](/Year%201/Programming/lcc.sh) - As the name suggests its just a script for compiling C with some QOL things because I'm too lazy to have to run the compiler over and over again.
+- [NIM Style Coin Game](/Year%201/Programming/First%20Sem%20Project) - First Semester Project based on a variation of the classic NIM coin game.
